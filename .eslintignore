@@ -1,0 +1,5 @@
+babel.config.cjs
+.eslintrc.cjs
+metro.config.cjs
+tailwind.config.cjs
+prettier.config.cjs
